@@ -7,8 +7,8 @@ import PublicRoute    from './components/layout/PublicRoute';
 import AppLayout      from './components/layout/AppLayout';
 
 import LandingPage    from './Pages/LandingPage';
-import LoginPage      from './pages/auth/LoginPage';
-import RegisterPage   from './pages/auth/RegisterPage';
+import LoginPage      from './Pages/auth/LoginPage';
+import RegisterPage   from './Pages/auth/RegisterPage';
 import DashboardPage  from './Pages/dashboard/DashboardPage';
 import JobsPage       from './Pages/jobs/JobsPage';
 import ResumePage     from './Pages/resume/ResumePage';
